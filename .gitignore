@@ -13,10 +13,10 @@ node_modules/
 package-lock.json
 yarn-error.log
 yarn-debug.log
-.yarn/
+.yarn/*
 !.yarn/patches
-!.yarn/releases
 !.yarn/plugins
+!.yarn/releases
 !.yarn/sdks
 !.yarn/versions
 
