@@ -1,0 +1,2 @@
+/Users/zecky/Documents/react-native-app-list/android/build/generated/source/codegen/jni/CMakeLists.txt
+/Users/zecky/Documents/react-native-app-list/example/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

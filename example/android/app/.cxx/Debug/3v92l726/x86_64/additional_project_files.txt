@@ -1,0 +1,7 @@
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/AppListSpec-generated.cpp.o
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/AppListSpecJSI-generated.cpp.o
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/ComponentDescriptors.cpp.o
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/EventEmitters.cpp.o
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/Props.cpp.o
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/ShadowNodes.cpp.o
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/States.cpp.o

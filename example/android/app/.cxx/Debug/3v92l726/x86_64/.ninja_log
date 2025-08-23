@@ -1,0 +1,24 @@
+# ninja log v5
+3	1429	1755977519383671225	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/ShadowNodes.cpp.o	17e3be8ae6300a1a
+1626	1679	1755977519634557706	/Users/zecky/Documents/react-native-app-list/example/android/app/build/intermediates/cxx/Debug/3v92l726/obj/x86_64/libappmodules.so	92659f87a04902e6
+3	1512	1755977519466734607	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/ComponentDescriptors.cpp.o	aaeb6f07bb1e587a
+3	1188	1755977519143363887	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/EventEmitters.cpp.o	fc8c0131cbfdbc20
+2	1510	1755977519463784227	CMakeFiles/appmodules.dir/Users/zecky/Documents/react-native-app-list/example/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	82295395f8ec3f46
+2	1626	1755977519578749826	CMakeFiles/appmodules.dir/OnLoad.cpp.o	905627c4560d9775
+3	1394	1755977519340710699	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/AppListSpecJSI-generated.cpp.o	ead323e8dadecf13
+3	1458	1755977519410631810	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/AppListSpec-generated.cpp.o	b851448e8d3644ef
+3	1027	1755977518982555966	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/States.cpp.o	dd674d3dafe7db70
+0	6	0	clean	37e894a180b458bf
+11	40	1755978296430811355	build.ninja	b64a0048a26afadd
+3	1390	1755977519342501035	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/Props.cpp.o	d3563c432138a34
+0	7	0	/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/CMakeFiles/cmake.verify_globs	4d668e50de73b5ed
+0	7	0	/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/x86_64/CMakeFiles/cmake.verify_globs	4d668e50de73b5ed
+3	976	1755978297442602457	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/States.cpp.o	dd674d3dafe7db70
+3	1094	1755978297559635101	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/EventEmitters.cpp.o	fc8c0131cbfdbc20
+3	1236	1755978297701982910	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/Props.cpp.o	d3563c432138a34
+3	1265	1755978297728395243	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/AppListSpecJSI-generated.cpp.o	ead323e8dadecf13
+3	1303	1755978297768809224	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/ShadowNodes.cpp.o	17e3be8ae6300a1a
+2	1360	1755978297825210105	CMakeFiles/appmodules.dir/Users/zecky/Documents/react-native-app-list/example/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	82295395f8ec3f46
+2	1363	1755978297827281233	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/react/renderer/components/AppListSpec/ComponentDescriptors.cpp.o	aaeb6f07bb1e587a
+3	1381	1755978297846147055	AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir/AppListSpec-generated.cpp.o	b851448e8d3644ef
+1382	1440	1755978297905327148	/Users/zecky/Documents/react-native-app-list/example/android/app/build/intermediates/cxx/Debug/3v92l726/obj/x86_64/libappmodules.so	92659f87a04902e6

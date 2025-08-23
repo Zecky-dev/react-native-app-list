@@ -1,0 +1,82 @@
+{
+  "name": "@zecky-dev/react-native-app-list",
+  "version": "0.1.2",
+  "description": "Retrieves a list of all installed apps on an Android device and allows checking whether a specific app is installed.",
+  "main": "lib/module/index.js",
+  "types": "lib/typescript/src/index.d.ts",
+  "files": [
+    "src",
+    "lib",
+    "android",
+    "ios",
+    "*.podspec",
+    "react-native.config.js"
+  ],
+  "scripts": {
+    "prepare": "bob build"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "apps",
+    "installed-apps",
+    "package-list"
+  ],
+  "workspaces": [
+    "example"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zecky-dev/react-native-app-list.git"
+  },
+  "author": "Zecky-dev <zkcndnmez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zecky-dev/react-native-app-list/issues"
+  },
+  "homepage": "https://github.com/Zecky-dev/react-native-app-list#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.73.0",
+    "react-native": "^0.79.2",
+    "react-native-builder-bob": "^0.40.13",
+    "typescript": "^5.9.2"
+  },
+  "react-native-builder-bob": {
+    "source": "src",
+    "output": "lib",
+    "targets": [
+      [
+        "module",
+        {
+          "esm": true
+        }
+      ],
+      [
+        "typescript",
+        {
+          "project": "tsconfig.build.json"
+        }
+      ]
+    ]
+  },
+  "codegenConfig": {
+    "name": "AppListSpec",
+    "type": "modules",
+    "jsSrcsDir": "src",
+    "android": {
+      "javaPackageName": "com.zeckydev.applist"
+    }
+  },
+  "create-react-native-library": {
+    "languages": "kotlin-objc",
+    "type": "turbo-module",
+    "version": "0.52.1"
+  }
+}

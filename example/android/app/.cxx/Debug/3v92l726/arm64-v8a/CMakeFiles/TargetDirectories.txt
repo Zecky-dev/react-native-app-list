@@ -1,0 +1,6 @@
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/arm64-v8a/CMakeFiles/appmodules.dir
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/arm64-v8a/AppListSpec_autolinked_build/CMakeFiles/react_codegen_AppListSpec.dir
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/arm64-v8a/AppListSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/zecky/Documents/react-native-app-list/example/android/app/.cxx/Debug/3v92l726/arm64-v8a/AppListSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
