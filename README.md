@@ -8,6 +8,18 @@ This module offers a simple and efficient way to list all installed apps and che
 npm install @zecky-dev/react-native-app-list
 ```
 
+## Android Permissions
+
+To ensure this module works correctly on **Android**, you must add the following permission to your app's AndroidManifest.xml file. This permission is required to access the list of installed applications.
+
+Open your `android/app/src/main/AndroidManifest.xml` file and add this line inside the `<manifest>` tag:
+
+Add this permission:
+
+```<uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />```
+
+Without this permission, the getInstalledApps and isAppInstalled methods may not return the expected results due to Android's package visibility restrictions.
+
 ## Usage
 
 ### 1. Get All Installed Apps
