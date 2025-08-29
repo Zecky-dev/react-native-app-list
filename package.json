@@ -1,6 +1,6 @@
 {
   "name": "@zecky-dev/react-native-app-list",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Retrieves a list of all installed apps on an Android device and allows checking whether a specific app is installed.",
   "main": "lib/module/index.js",
   "types": "lib/typescript/src/index.d.ts",
