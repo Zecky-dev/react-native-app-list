@@ -8,7 +8,6 @@
     "src",
     "lib",
     "android",
-    "ios",
     "*.podspec",
     "react-native.config.js"
   ],
